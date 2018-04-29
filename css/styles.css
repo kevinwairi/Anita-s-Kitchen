@@ -80,9 +80,9 @@
 .menu	{
 	background-image: url('../img/foodsBg.jpg');
 
+
 }
 .menu .menu-item{
-/*	margin: 100px;*/
 	margin-left: 220px;
 	margin-top: 80px;
 	margin-bottom: 80px;
@@ -92,3 +92,9 @@
 	height: 350px;
 
 }
+.gallery div{
+	float: left;
+	margin-left: 25px;
+
+}
+/*nav edits*/
