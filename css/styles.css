@@ -3,3 +3,27 @@
 	height: 636px;
 
 }
+.logo	{
+	text-align: center;
+	color: #ffffff;
+	padding-top: 90px;
+}
+.logo p {
+	padding-top: 20px;
+}
+.foodtop div	{
+	height: 210px;
+	background-image: cover;
+}
+.foodtop .small-div	{
+	height: 50%;
+}
+.breakfast {
+	background-image: url('../img/foodtop/breakfast.jpg');
+}
+.lunch	{
+	background-image: url('../img/foodtop/lunch.jpg');
+}
+.dinner	{
+	background-image: url('../img/foodtop/dinner.jpg');
+}
