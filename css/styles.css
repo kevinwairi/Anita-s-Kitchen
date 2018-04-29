@@ -13,10 +13,19 @@
 }
 .foodtop div	{
 	height: 210px;
-	background-image: cover;
+	text-align: center;
+	color: #fff;
+	padding: 0px;
+	margin: 0px;
 }
-.foodtop .small-div	{
-	height: 50%;
+.foodtop div p {
+	padding-top: 105px
+}
+.foodtop div .black{
+	color: black;
+}
+.foodtop div div p{
+	padding-top: 50px;
 }
 .breakfast {
 	background-image: url('../img/foodtop/breakfast.jpg');
@@ -26,4 +35,7 @@
 }
 .dinner	{
 	background-image: url('../img/foodtop/dinner.jpg');
+}
+.foodtop div.short-div {
+  height:105px;
 }
