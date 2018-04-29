@@ -97,4 +97,11 @@
 	margin-left: 25px;
 
 }
-/*nav edits*/
+
+/*Newsletter edits*/
+.newsletter {
+	background-image: url('../img/backgrounds/subscribe.jpg');
+	height: 301px;
+	color: #fff;
+	text-align: center;
+}
