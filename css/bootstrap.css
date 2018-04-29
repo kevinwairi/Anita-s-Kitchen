@@ -1602,12 +1602,12 @@ pre code {
     width: 1170px;
   }
 }
-.container-fluid {
+/*.container-fluid {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-}
+}*/
 .row {
   margin-right: -15px;
   margin-left: -15px;
@@ -4978,7 +4978,7 @@ a.badge:focus {
 .container-fluid .jumbotron {
   padding-right: 15px;
   padding-left: 15px;
-  border-radius: 6px;
+/*  border-radius: 6px;*/
 }
 .jumbotron .container {
   max-width: 100%;
