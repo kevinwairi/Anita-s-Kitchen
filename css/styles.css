@@ -82,11 +82,14 @@
 
 }
 .menu .menu-item{
-	margin: 50px;
-	padding-left: 0px;
+/*	margin: 100px;*/
+	margin-left: 220px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	padding-top: 80px;
 	text-align: center;
 	background-color: #fff;
-	width: 900px;
-	height: 300px;
+	width: 950px;
+	height: 350px;
 
 }
