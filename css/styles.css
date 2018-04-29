@@ -22,7 +22,7 @@
 	padding-top: 105px
 }
 .foodtop div .black{
-	color: black;
+	color:#000000;
 }
 .foodtop div div p{
 	padding-top: 50px;
@@ -44,11 +44,11 @@
 	padding: 100px;
 }
 .fast-food .thumbnail	{
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	width: 530px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 520px;
 }
 .fast-food .thumbnail img {
 	margin-right: 0px;
@@ -56,3 +56,37 @@
 }
 
 /*third row drinks section*/
+.drinks	{
+	text-align: right;
+
+}
+.drinks .thumbnail	{
+	width: 530px;
+	height: 430px;
+	padding: 15px;
+}
+.drinks .thumbnail div img{
+	float: left;
+}
+.gallery-button {
+	background-color: #fff;
+	border-width: 3px 3px 3px 3px;
+	border-color: #d8512e;
+	color: #d8512e;
+	border-color: #d8512e;
+}
+
+/*MENU SECION*/
+.menu	{
+	background-image: url('../img/foodsBg.jpg');
+
+}
+.menu .menu-item{
+	margin: 50px;
+	padding-left: 0px;
+	text-align: center;
+	background-color: #fff;
+	width: 900px;
+	height: 300px;
+
+}
