@@ -115,3 +115,17 @@
 	color: #fff;
 	text-align: center;
 }
+
+/*customers*/
+.well	{
+	margin:  50px 50px; 
+	text-align: center;
+/*	box-shadow:  5px 10px black;*/
+}
+.well h3	{
+	color: #d8512e;
+}
+.vl {
+    border-left: 1px solid black;
+    height: 150px;
+}
