@@ -98,8 +98,8 @@
 	margin-bottom: 80px;
 	text-align: center;
 	background-color: #fff;
-	width: 950px;
-	height: 350px;
+	width: 970px;
+	height: 330px;
 
 }
 .gallery div{
@@ -107,7 +107,10 @@
 	margin-left: 25px;
 
 }
-
+.gallery p {
+	padding-top: 5px;
+	color: #d8512e;
+}
 /*Newsletter edits*/
 .newsletter {
 	background-image: url('../img/backgrounds/subscribe.jpg');
