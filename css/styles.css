@@ -118,7 +118,7 @@
 
 /*customers*/
 .well	{
-	margin:  50px 50px; 
+	margin:  50px 200px; 
 	text-align: center;
 /*	box-shadow:  5px 10px black;*/
 }
@@ -128,4 +128,7 @@
 .vl {
     border-left: 1px solid black;
     height: 150px;
+}
+.newsletter .center	{
+	padding-top: 50px;
 }
