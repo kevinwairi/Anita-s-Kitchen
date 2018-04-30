@@ -130,5 +130,9 @@
     height: 150px;
 }
 .newsletter .center	{
-	padding-top: 50px;
+	padding-top: 100px;
+}
+.footer {
+	background-color: #d8512e;
+	height: 100px;
 }
