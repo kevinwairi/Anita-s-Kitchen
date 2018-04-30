@@ -1,7 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Cousine');
 .jumbotron 	{
 	background-image: url('../img/backgrounds/landing.jpg');
 	height: 636px;
-
 }
 .logo	{
 	text-align: center;
@@ -134,5 +134,26 @@
 }
 .footer {
 	background-color: #d8512e;
-	height: 100px;
+	height: auto;
+	text-align: center;
+	margin: 0 auto;
+	color: #fff;
+	padding: 25px;
+
+}
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+
+.footer h3 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+.footer .social	{
+	padding: 10px;
+}
+.footer p {
+	padding: 10px;
 }
