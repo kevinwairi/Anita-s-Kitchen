@@ -7,7 +7,7 @@ This project is a landing page for the project Anita`s Kitchen.
 
 This project is developed in HTML , CSS and bootstrap as the framework and styling. It has an index page which is the default first page a CSS folder that holds all the stylings and images  folderfor all the assets applied.
 
-github link
+https://kevinwairi.github.io/second-friday/
 
 
 MIT Licence
